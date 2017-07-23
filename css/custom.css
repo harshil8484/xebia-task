@@ -1,0 +1,22 @@
+#wrapper{
+    width:1000px;
+    margin:0 auto;
+}
+#container{
+    width:300px;
+    border:1px solid black;
+    background: #d0e3f3;
+    margin-left: 40%;
+}
+#container form{
+    position: relative;
+ }
+#container form p {
+    margin:20px;
+}
+#container form label{
+    color:#e74c67;
+}
+#container form label{
+    
+}
